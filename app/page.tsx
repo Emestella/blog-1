@@ -6,29 +6,22 @@ export default function Page() {
     <section>
       <div className="flex items-center mb-8">
         <Image
-          src="/profile.png"
+          src="/Butterfly.png"
           alt="profile image"
           width={100}
           height={100}
           className="rounded-full mr-4"
         />
         <h1 className="text-2xl font-semibold tracking-tighter">
-          My Portfolio
+          Bonjour.
         </h1>
       </div>
       <p className="mb-4">
-        {`Hello! This blog is created using `}
-        <a 
-          href="https://github.com/notionpresso" 
-          target="_blank" 
-          rel="noopener noreferrer"
-          className="text-blue-600 hover:text-blue-800 underline font-medium transition duration-300 ease-in-out"
-        >
-          Notionpresso
-        </a>
-        {`. I'm efficiently managing content by utilizing Notion as a CMS. 
-        I'll be sharing stories about development, technology, and daily life. 
-        Stay tuned and thanks for your interest!`}
+        Vous &ecirc;tes actuellement sur ma page personnelle. Ici, j'y &eacute;cris des articles. Genre, tout plein d'articles. 
+        Vous aimerez s&ucirc;rement y jeter un &oelig;il. Ou deux. Non, pas deux, ne le faites pas, sinon vous pourrez plus rien lire.
+      </p>
+      <p className="mb-4">
+        Profitez-bien du contenu ! N'oubliez pas de faire des pauses r&eacute;guli&egrave;res et de boire de l'eau.
       </p>
       <div className="my-8">
         <BlogPosts />

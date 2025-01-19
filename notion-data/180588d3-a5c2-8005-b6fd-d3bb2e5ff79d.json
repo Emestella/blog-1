@@ -1,0 +1,1297 @@
+{
+  "object": "page",
+  "id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d",
+  "created_time": "2025-01-19T15:18:00.000Z",
+  "last_edited_time": "2025-01-19T15:22:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "workspace",
+    "workspace": true
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Guide de démarrage",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Guide de démarrage",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Guide-de-d-marrage-180588d3a5c28005b6fdd3bb2e5ff79d",
+  "public_url": null,
+  "request_id": "06c2bc88-77f1-4d94-a99e-19bc98141912",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "aedbfc07-117d-4e37-9e6f-544cb910e4e9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "👋 Bienvenue sur Notion !",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "👋 Bienvenue sur Notion !",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "089c0da9-b4fb-4e3a-a9c6-9e24612ecb75",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "1be0abe4-f030-4a1e-af57-bef8c70e4e24",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Voici les fondamentaux :",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Voici les fondamentaux :",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "024e8cd5-4118-4e8d-9b2a-26b35550ef45",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cliquez n’importe où et commencez à écrire.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cliquez n’importe où et commencez à écrire.",
+            "href": null
+          }
+        ],
+        "checked": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "290deb35-a6a4-4463-a75d-33285f7c8678",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Tapez ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tapez ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "/",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "/",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " pour afficher tous les types de contenu que vous pouvez ajouter : titres, vidéos, sous-pages, etc.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " pour afficher tous les types de contenu que vous pouvez ajouter : titres, vidéos, sous-pages, etc.",
+            "href": null
+          }
+        ],
+        "checked": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "83c885d1-b51d-404f-9236-84dd455ecc94",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sélectionnez n’importe quel texte et utilisez le menu qui s’affiche pour ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sélectionnez n’importe quel texte et utilisez le menu qui s’affiche pour ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "lui",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "lui",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "donner",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": true,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "donner",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " le ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " le ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "style",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "style",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "que",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "que",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "vous",
+              "link": {
+                "url": "https://www.notion.so/product"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "vous",
+            "href": "https://www.notion.so/product"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "voulez",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "yellow_background"
+            },
+            "plain_text": "voulez",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          }
+        ],
+        "checked": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "be6bd86b-533f-44bc-9f88-8e38fdd9abdb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Vous voyez l’icône ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Vous voyez l’icône ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "⋮⋮",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "⋮⋮",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " lorsque vous placez votre curseur tout à gauche de cette ligne ? Cliquez dessus et faites-le glisser pour la déplacer.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " lorsque vous placez votre curseur tout à gauche de cette ligne ? Cliquez dessus et faites-le glisser pour la déplacer.",
+            "href": null
+          }
+        ],
+        "checked": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "2cd086d1-3e58-411c-acda-29744203c756",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cliquez sur le bouton ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cliquez sur le bouton ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "+ Nouvelle page",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "+ Nouvelle page",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " en bas de votre barre latérale pour ajouter une nouvelle page.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " en bas de votre barre latérale pour ajouter une nouvelle page.",
+            "href": null
+          }
+        ],
+        "checked": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "f49b8fa8-8924-44ab-a7a7-49b4bfd44e69",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cliquez sur ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cliquez sur ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Calendrier",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Calendrier",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " dans votre barre latérale pour gérer votre temps et travailler en équipe. L’application de calendrier de Notion est intégrée et synchronisée avec tous vos événements Google Agenda !",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " dans votre barre latérale pour gérer votre temps et travailler en équipe. L’application de calendrier de Notion est intégrée et synchronisée avec tous vos événements Google Agenda !",
+            "href": null
+          }
+        ],
+        "checked": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "6647d910-838c-433b-b178-01ad57e1e2ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sélectionnez toute cette liste et cliquez sur ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sélectionnez toute cette liste et cliquez sur ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Demander à l’IA",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "Demander à l’IA",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " de « Continuer à rédiger » pour plus de conseils spécifiques à votre espace de travail.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " de « Continuer à rédiger » pour plus de conseils spécifiques à votre espace de travail.",
+            "href": null
+          }
+        ],
+        "checked": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "34ebf21e-22e4-43ec-a643-8c7b95d0fc7f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Cliquez sur ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Cliquez sur ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Modèles",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Modèles",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " dans votre barre latérale pour utiliser des pages déjà pré-construites.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " dans votre barre latérale pour utiliser des pages déjà pré-construites.",
+            "href": null
+          }
+        ],
+        "checked": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "fc3532ef-5534-4944-af74-891a2b37d3d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "toggle",
+      "toggle": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ceci est un menu dépliant. Cliquez sur le petit triangle pour afficher d’autres conseils utiles !",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ceci est un menu dépliant. Cliquez sur le petit triangle pour afficher d’autres conseils utiles !",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "836f08c2-c00f-42ce-afb5-32195afdc2ec",
+          "parent": {
+            "type": "block_id",
+            "block_id": "fc3532ef-5534-4944-af74-891a2b37d3d9"
+          },
+          "created_time": "2025-01-19T15:18:00.000Z",
+          "last_edited_time": "2025-01-19T15:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "notion.com/templates",
+                  "link": {
+                    "url": "https://www.notion.so/templates"
+                  }
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "red"
+                },
+                "plain_text": "notion.com/templates",
+                "href": "https://www.notion.so/templates"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "red"
+                },
+                "plain_text": " ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ": Découvrez les modèles créés par la communauté Notion.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ": Découvrez les modèles créés par la communauté Notion.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "043976a7-2ac3-4ad1-a85f-ffb12ccde086",
+          "parent": {
+            "type": "block_id",
+            "block_id": "fc3532ef-5534-4944-af74-891a2b37d3d9"
+          },
+          "created_time": "2025-01-19T15:18:00.000Z",
+          "last_edited_time": "2025-01-19T15:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "notion.com/help",
+                  "link": {
+                    "url": "https://www.notion.so/help"
+                  }
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "red"
+                },
+                "plain_text": "notion.com/help",
+                "href": "https://www.notion.so/help"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "red"
+                },
+                "plain_text": " ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ":",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ":",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Des guides et une FAQ pour tout ce qui concerne Notion.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Des guides et une FAQ pour tout ce qui concerne Notion.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        },
+        {
+          "object": "block",
+          "id": "fad8e0f0-2827-405f-9066-7926549128da",
+          "parent": {
+            "type": "block_id",
+            "block_id": "fc3532ef-5534-4944-af74-891a2b37d3d9"
+          },
+          "created_time": "2025-01-19T15:18:00.000Z",
+          "last_edited_time": "2025-01-19T15:18:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "notion.com/guides",
+                  "link": {
+                    "url": "http://notion.com/guides"
+                  }
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "red"
+                },
+                "plain_text": "notion.com/guides",
+                "href": "http://notion.com/guides"
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "red"
+                },
+                "plain_text": " ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ": Des vidéos et des tutoriels pour devenir un·e expert·e de Notion.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ": Des vidéos et des tutoriels pour devenir un·e expert·e de Notion.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "248c075a-c386-4d59-8092-eeaf526cd4fc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-8005-b6fd-d3bb2e5ff79d"
+      },
+      "created_time": "2025-01-19T15:18:00.000Z",
+      "last_edited_time": "2025-01-19T15:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}

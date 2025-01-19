@@ -10,23 +10,23 @@ import { ThemeProvider } from 'next-themes'
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: 'Notionpresso Portfolio Starter',
-    template: '%s | Notionpresso Portfolio Starter',
+    default: 'Emestella.net, parce que tu aimes bien lire mes bêtises.',
+    template: '%s | Emestella.net',
   },
-  description: 'This is my my portfloio',
+  description: 'Le blog personnel d\'Emestella, dans lequel j\'exprime mes avis, mes opinions, mes coups de sang, mes coups de cœur, et où je fais des rô dossiers.',
   openGraph: {
-    title: 'My Portfolio',
-    description: 'This is my portfolio.',
+    title: 'Emestella.net, parce que tu aimes bien lire mes bêtises.',
+    description: 'Le blog personnel d\'Emestella, dans lequel j\'exprime mes avis, mes opinions, mes coups de sang, mes coups de cœur, et où je fais des rô dossiers.',
     url: baseUrl,
-    siteName: 'My Portfolio',
-    locale: 'en_US',
+    siteName: 'Emestella.net',
+    locale: 'fr_FR',
     type: 'website',
     images: [
       {
-        url: '/profile.png',
+        url: '/Butterfly.png',
         width: 800,
         height: 600,
-        alt: '프로필 이미지',
+        alt: 'Logo d\'Emestella, un papillon bleu avec une antenne étoile sur fond rose.',
       }
     ],
   },
@@ -60,7 +60,7 @@ export default function RootLayout({
 }) {
   return (
     <html
-      lang="en"
+      lang="fr"
       suppressHydrationWarning
       className={cx(
         GeistSans.variable,

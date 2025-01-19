@@ -1,0 +1,762 @@
+{
+  "object": "page",
+  "id": "180588d3-a5c2-80b2-a63e-c24bd6c8bdb1",
+  "created_time": "2025-01-19T15:53:00.000Z",
+  "last_edited_time": "2025-01-19T16:46:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+  },
+  "cover": {
+    "type": "file",
+    "file": {
+      "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/39e5da37-9755-4f81-b794-97ce8b4d27d6/68f18e8f-0f74-4ec5-91e7-6f5cddcf5ef3/5427985046_f21291ddfd_o.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45FSPPWI6X%2F20250119%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250119T164732Z&X-Amz-Expires=3600&X-Amz-Signature=347209a8057fb2ccd736c604046ff32e1d5f91395664c80eef2ccf58a61d7d80&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "expiry_time": "2025-01-19T17:47:32.728Z"
+    }
+  },
+  "icon": {
+    "type": "emoji",
+    "emoji": "🐦"
+  },
+  "parent": {
+    "type": "workspace",
+    "workspace": true
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Il fallait bien recommencer quelque part…",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Il fallait bien recommencer quelque part…",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/Il-fallait-bien-recommencer-quelque-part-180588d3a5c280b2a63ec24bd6c8bdb1",
+  "public_url": null,
+  "request_id": "e08f84f2-c94d-4dff-9efd-2fd5f9c0835c",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "180588d3-a5c2-8013-853f-ffb30cc8d9ad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-80b2-a63e-c24bd6c8bdb1"
+      },
+      "created_time": "2025-01-19T16:09:00.000Z",
+      "last_edited_time": "2025-01-19T16:12:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Image de couverture : Rebirth, par Alice Popkorn. Source : ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Image de couverture : Rebirth, par Alice Popkorn. Source : ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://www.flickr.com/photos/alicepopkorn/5427985046",
+              "link": {
+                "url": "https://www.flickr.com/photos/alicepopkorn/5427985046"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://www.flickr.com/photos/alicepopkorn/5427985046",
+            "href": "https://www.flickr.com/photos/alicepopkorn/5427985046"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "\nALT : Femme blonde ouvrant ses mains d’où sortent un papillon et des rais de lumière.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\nALT : Femme blonde ouvrant ses mains d’où sortent un papillon et des rais de lumière.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "180588d3-a5c2-804d-84e7-de6a20f7dafa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-80b2-a63e-c24bd6c8bdb1"
+      },
+      "created_time": "2025-01-19T15:53:00.000Z",
+      "last_edited_time": "2025-01-19T15:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Très honnêtement, je me suis posée moult fois la question de savoir si je voulais rouvrir un blog. Sauf qu’il y a plusieurs événements qui sont arrivés et qui m’ont poussé à repartir à l’aventure.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Très honnêtement, je me suis posée moult fois la question de savoir si je voulais rouvrir un blog. Sauf qu’il y a plusieurs événements qui sont arrivés et qui m’ont poussé à repartir à l’aventure.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "180588d3-a5c2-80c7-bba3-c0f4323cb012",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-80b2-a63e-c24bd6c8bdb1"
+      },
+      "created_time": "2025-01-19T15:54:00.000Z",
+      "last_edited_time": "2025-01-19T16:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "D’abord, parce que j’ai beaucoup trop l’impression de dépendre des réseaux sociaux pour exprimer mes ressentis, mes opinions, pour atteindre un public qui passe rapidement à la suite, et le micro-blogging et ses 300 (ou 500, ou 280, ou plus, ou moins) caractères me rend la tâche difficile quand je souhaite être expansive sur un sujet donné. Les fils de discussion ne me permettent pas aisément de faire ça. De plus, le formatage est inexistant, ou nécessite de faire appel à des caractères que les gens ne peuvent pas tous voir, ce qui rend inaccessible tout ou partie de ma parole. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "D’abord, parce que j’ai beaucoup trop l’impression de dépendre des réseaux sociaux pour exprimer mes ressentis, mes opinions, pour atteindre un public qui passe rapidement à la suite, et le micro-blogging et ses 300 (ou 500, ou 280, ou plus, ou moins) caractères me rend la tâche difficile quand je souhaite être expansive sur un sujet donné. Les fils de discussion ne me permettent pas aisément de faire ça. De plus, le formatage est inexistant, ou nécessite de faire appel à des caractères que les gens ne peuvent pas tous voir, ce qui rend inaccessible tout ou partie de ma parole. ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Le gras",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Le gras",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "l’italique",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "l’italique",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "le souligné",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "le souligné",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "voire les combinaisons possibles des trois",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": true,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "voire les combinaisons possibles des trois",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " sont des options de formatage basiques qui me semblent nécessaire pour apporter de l’emphase aux propos que j’exprime.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " sont des options de formatage basiques qui me semblent nécessaire pour apporter de l’emphase aux propos que j’exprime.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "180588d3-a5c2-80b1-ba4c-fc12eb7d4ee5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-80b2-a63e-c24bd6c8bdb1"
+      },
+      "created_time": "2025-01-19T16:13:00.000Z",
+      "last_edited_time": "2025-01-19T16:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ensuite, parce que je peux maîtriser un minimum ce que je produis. Je n’ai pas la prétention de dire que je suis une experte en Web, mon outil de travail reste Notion et le contenu inclus est très pratique, mais je sais utiliser l’HyperText Markup Language et le Cascade Sheet Style, donc faire de mon site web un havre personnalisé et personnel, qui répond à mon style et à mes intérêts. Pas comme les RS, donc. Et mieux que ce que proposait Skyblog à une époque qu’on préfère toustes oublier.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ensuite, parce que je peux maîtriser un minimum ce que je produis. Je n’ai pas la prétention de dire que je suis une experte en Web, mon outil de travail reste Notion et le contenu inclus est très pratique, mais je sais utiliser l’HyperText Markup Language et le Cascade Sheet Style, donc faire de mon site web un havre personnalisé et personnel, qui répond à mon style et à mes intérêts. Pas comme les RS, donc. Et mieux que ce que proposait Skyblog à une époque qu’on préfère toustes oublier.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "180588d3-a5c2-803e-a200-e4a9b479a71b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-80b2-a63e-c24bd6c8bdb1"
+      },
+      "created_time": "2025-01-19T16:16:00.000Z",
+      "last_edited_time": "2025-01-19T16:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Enfin, parce que je souhaite avoir un site web qui ne dépend pas des conditions générales d’utilisation de quelqu’un d’autre. Dernièrement, vous avez pu constater que Twitter a pris le chemin d’une dégradation majeure de son contenu et de son contenant, chemin que semble également prêt à suivre Meta pour ses propres plateformes. Le constat est sans appel : c’est la mouise. D’ailleurs, ça me surprend que ces plateformes soient encore autorisées en Europe, en particulier en France, étant donné le niveau de tolérance à l’intolérance et le manque clair de modération qui empêcherait la propagation de la haine et des mensonges. Bref, voyez ça comme l’expression de ma liberté… d’expression, oui, j’aurais pu trouver une meilleure formulation.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Enfin, parce que je souhaite avoir un site web qui ne dépend pas des conditions générales d’utilisation de quelqu’un d’autre. Dernièrement, vous avez pu constater que Twitter a pris le chemin d’une dégradation majeure de son contenu et de son contenant, chemin que semble également prêt à suivre Meta pour ses propres plateformes. Le constat est sans appel : c’est la mouise. D’ailleurs, ça me surprend que ces plateformes soient encore autorisées en Europe, en particulier en France, étant donné le niveau de tolérance à l’intolérance et le manque clair de modération qui empêcherait la propagation de la haine et des mensonges. Bref, voyez ça comme l’expression de ma liberté… d’expression, oui, j’aurais pu trouver une meilleure formulation.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "180588d3-a5c2-8086-b79b-df24b10e7dd8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-80b2-a63e-c24bd6c8bdb1"
+      },
+      "created_time": "2025-01-19T16:24:00.000Z",
+      "last_edited_time": "2025-01-19T16:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Que va-t-on pouvoir retrouver ici ? Eh bien, ce qui m’intéresse. Et ça peut être des sujets très variés.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Que va-t-on pouvoir retrouver ici ? Eh bien, ce qui m’intéresse. Et ça peut être des sujets très variés.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "180588d3-a5c2-80a6-8c8f-d00ae887eaf4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-80b2-a63e-c24bd6c8bdb1"
+      },
+      "created_time": "2025-01-19T16:24:00.000Z",
+      "last_edited_time": "2025-01-19T16:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Des articles concernant la technologie, principalement, ce que j’y trouve, ce que j’y aime ou non, ce que j’en pense, et pourquoi Meta doit mourir;",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Des articles concernant la technologie, principalement, ce que j’y trouve, ce que j’y aime ou non, ce que j’en pense, et pourquoi Meta doit mourir;",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "180588d3-a5c2-805b-9c38-df95f955b0d3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-80b2-a63e-c24bd6c8bdb1"
+      },
+      "created_time": "2025-01-19T16:25:00.000Z",
+      "last_edited_time": "2025-01-19T16:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Des articles sur des phénomènes de société, comme les mèmes par exemple, les mouvements de masse, les actions méconnues, ou pourquoi il faut laisser Anne tranquille;",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Des articles sur des phénomènes de société, comme les mèmes par exemple, les mouvements de masse, les actions méconnues, ou pourquoi il faut laisser Anne tranquille;",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "180588d3-a5c2-80c4-a48b-f3232b5fce2a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-80b2-a63e-c24bd6c8bdb1"
+      },
+      "created_time": "2025-01-19T16:26:00.000Z",
+      "last_edited_time": "2025-01-19T16:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Des éditos, si possible toujours complété par des sources, et avec des opinions plus expliquées que “gneu gneu gneu, le PS c’est des traîtres”;",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Des éditos, si possible toujours complété par des sources, et avec des opinions plus expliquées que “gneu gneu gneu, le PS c’est des traîtres”;",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "180588d3-a5c2-8058-b719-f7866f87ce96",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-80b2-a63e-c24bd6c8bdb1"
+      },
+      "created_time": "2025-01-19T16:27:00.000Z",
+      "last_edited_time": "2025-01-19T16:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Des articles où je vous partagerai mes connaissances dans divers domaines, mes créations dans ces domaines, ou pourquoi le La en 432Hz c’est ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Des articles où je vous partagerai mes connaissances dans divers domaines, mes créations dans ces domaines, ou pourquoi le La en 432Hz c’est ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "de la merde en barre",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": true,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "de la merde en barre",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " juste une autre tonalité d’accordage tout à fait valable mais sans effet supplémentaire.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " juste une autre tonalité d’accordage tout à fait valable mais sans effet supplémentaire.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "180588d3-a5c2-806f-b5fb-f19b610668e1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "180588d3-a5c2-80b2-a63e-c24bd6c8bdb1"
+      },
+      "created_time": "2025-01-19T16:35:00.000Z",
+      "last_edited_time": "2025-01-19T16:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "180d872b-594c-812e-aa1b-0002cfb19907"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Au plaisir de vous retrouver prochainement.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Au plaisir de vous retrouver prochainement.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    }
+  ]
+}
